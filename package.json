@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nico-watine/zurb-f6-boilerplate"
+    "url": "https://github.com/nico-watine/zurb-f6-boilerplate-yarn"
   },
   "babel": {
     "presets": [
