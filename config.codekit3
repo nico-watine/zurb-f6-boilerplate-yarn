@@ -2191,7 +2191,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http://zurb-yarn.local",
+	"externalServerAddress": "http://zurb-f6-boilerplate-yarn.local",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
