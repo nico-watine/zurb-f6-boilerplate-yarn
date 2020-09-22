@@ -25,6 +25,14 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
+	"/.yarnclean": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/.yarnclean",
+		"oF": 0
+		},
 	"/_ignores/autoprefixer-browser-string.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -91,6 +99,12 @@
 		"oAP": "/css/app-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/dist",
+		"oF": 0
 		},
 	"/gulpfile.babel.js": {
 		"bF": 0,
