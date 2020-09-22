@@ -139,6 +139,56 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"/node_modules": {
+		"ft": 65536,
+		"oA": 2,
+		"oAP": "/build/node_modules",
+		"oF": 0
+		},
+	"/node_modules/gulp/index.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "/js/index-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/node_modules/panini/index.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "/js/index-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/node_modules/rimraf/rimraf.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "/js/rimraf-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/node_modules/yargs/./index.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "/js/index-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"/package.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -599,6 +649,14 @@
 		"ft": 65536,
 		"oA": 1,
 		"oAP": "/build/src",
+		"oF": 0
+		},
+	"/yarn.lock": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/yarn.lock",
 		"oF": 0
 		}
 	},
