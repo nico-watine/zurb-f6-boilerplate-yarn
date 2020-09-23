@@ -8632,23 +8632,8 @@ a:not(.button) {
     top: 0;
     z-index: 1020; } }
 
-.width-100 {
-  width: 100%; }
-
-.width-75 {
-  width: 75%; }
-
-.width-50 {
-  width: 50%; }
-
-.width-25 {
-  width: 25%; }
-
 .width-auto {
   width: auto; }
-
-.max-width-100 {
-  max-width: 100%; }
 
 .max-width-75 {
   max-width: 75%; }
