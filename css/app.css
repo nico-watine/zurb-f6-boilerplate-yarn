@@ -8602,6 +8602,3 @@ a:not(.button) {
 
 .min-width-25 {
   min-width: 25%; }
-
-p {
-  font-size: rem-calc(32); }
