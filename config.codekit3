@@ -121,9 +121,9 @@
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "/Icon\r",
-		"oF": 1
+		"oF": 0
 		},
 	"/img/folderHolder.jpg": {
 		"ft": 16384,
