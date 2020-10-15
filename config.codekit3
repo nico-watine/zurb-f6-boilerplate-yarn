@@ -158,16 +158,11 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"/js/vendor/jquery/3-4-1/jquery-min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 0,
-		"oAP": "/js/vendor/jquery/3-4-1/jquery-min-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
+	"/js/vendor": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/js/vendor",
+		"oF": 0
 		},
 	"/node_modules": {
 		"ft": 65536,
@@ -2765,7 +2760,7 @@
 	"rollupExternals": "",
 	"rollupReplacements": "process.env.NODE_ENV:::$NODE_ENV,,,ENVIRONMENT:::$NODE_ENV",
 	"rollupTreeshakingEnabled": 1,
-	"skippedFoldersString": "/storage/framework/sessions, /src, _logs, logs, log, /dist, _cache, cache, /assets, /node_modules",
+	"skippedFoldersString": "/storage/framework/sessions, /src, _logs, logs, log, /dist, _cache, cache, /assets, /node_modules, /js/vendor",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
 	"tsAllowSyntheticDefaultImports": 0,
